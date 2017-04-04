@@ -1,5 +1,5 @@
 # burst-trie
-Report on Efficient Auto-Completion Using Burst Tries
+Implementation and Report on Efficient Auto-Completion Using Burst Tries
 
 An implementation of a burst trie, with a report on the speed of using this in a dictionary look-up environment compared to other types of containers.
 
